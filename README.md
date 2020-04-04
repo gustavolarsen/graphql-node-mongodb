@@ -1,9 +1,9 @@
 # graphql-node-mongodb
  Projeto de GraphQL e NodeJS com conexão ao MongoDB
 
-<h2 align="center">
-    <img alt="graphql-nodejs-mongodb" title="#graphQL" src=".github/logo.png" width="200px" />
-</h2>
+<p align="center">
+    <img alt="graphql-nodejs-mongodb" title="GraphQL" src=".github/logo.png" width="300px" />
+</p>
 
 
 ## Projeto
