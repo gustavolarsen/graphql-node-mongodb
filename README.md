@@ -23,13 +23,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Telas
 
 ### Cadastro de usuário
-<img align="center" alt="cadastro-usuario" title="Cadastro de Usuário" src=".github/cadastro-usuario.png" width="500px" />
+<img align="center" alt="cadastro-usuario" title="Cadastro de Usuário" src=".github/cadastro-usuario.png" width="600px" />
 
 ### Listagem de todos os usários
-<img align="center" alt="listagem-usuarios" title="Listagem de Usuários" src=".github/listagem-usuarios.png" width="500px" />
+<img align="center" alt="listagem-usuarios" title="Listagem de Usuários" src=".github/lista-usuarios.png" width="600px" />
 
 ### Busca de usário por ID
-<img align="center" alt="usuario-por-id" title="Busca de Usuário por ID" src=".github/usuario-por-id.png" width="500px" />
+<img align="center" alt="usuario-por-id" title="Busca de Usuário por ID" src=".github/usuario-por-id.png" width="600px" />
 
 ## Autor
 Gustavo Larsen [@gustavoslarsen](https://twitter.com/gustavoslarsen)
