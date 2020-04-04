@@ -1,9 +1,9 @@
 # graphql-node-mongodb
  Projeto de GraphQL e NodeJS com conexão ao MongoDB
 
- <h1 align="center">
+<h2 align="center">
     <img alt="graphql-nodejs-mongodb" title="#graphQL" src=".github/logo.png" width="200px" />
-</h1>
+</h2>
 
 
 ## Projeto
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <img align="center" alt="cadastro-usuario" title="Cadastro de Usuário" src=".github/cadastro-usuario.png" width="450px" />
 
 ### Listagem de todos os usários
-<img align="center" alt="listagem-usuarios" title="Listagem de Usuários" src=".github/listagem-usuario.png" width="450px" />
+<img align="center" alt="listagem-usuarios" title="Listagem de Usuários" src=".github/listagem-usuarios.png" width="450px" />
 
 ### Busca de usário por ID
 <img align="center" alt="usuario-por-id" title="Busca de Usuário por ID" src=".github/usuario-por-id.png" width="450px" />
